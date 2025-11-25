@@ -1,0 +1,9 @@
+# Google Agent Development Kit - Core framework for building agents
+google-adk>=0.1.0
+
+# HTTP client for URL content fetching (used by read_link tool)
+httpx>=0.24.0
+
+# HTML to Markdown converter (used by read_link tool)
+html2text>=2020.1.16
+
